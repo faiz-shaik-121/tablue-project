@@ -1,0 +1,66 @@
+# 📊 Sales Insight Dashboard
+
+## 📌 Project Overview
+The **Sales Insight Dashboard** is an interactive Tableau visualization that analyzes sales performance across different markets, products, and customers.  
+It connects to a MySQL database as the primary data source and provides key performance indicators, trends, and breakdowns to support data-driven decision-making.
+
+---
+
+## 🎯 Purpose
+- Monitor sales quantity and revenue over time.  
+- Identify high-performing products and customers.  
+- Compare sales performance across different markets.  
+- Provide insights for improving sales strategy.
+
+---
+
+## 📂 Data Sources
+- **Database:** MySQL (Cleaned and prepared sales dataset).  
+- **Key Fields:** Date, Market, Product, Customer, Sales Quantity, Revenue.  
+
+---
+
+## 📊 Dashboard Features
+- **KPIs:**
+  - **Total Sales Quantity:** 2.43M units.
+  - **Total Revenue:** ₹986.62M.
+- **Visuals & Insights:**
+  - **Revenue by Market:** Delhi NCR leads with ₹520.78M, followed by Mumbai and Ahmedabad.
+  - **Sales Quantity by Market:** Delhi NCR has the highest quantity (989.90K units).
+  - **Monthly Sales Trend (2017–2020):** Seasonal variations with noticeable dips in 2020.
+  - **Top 5 Products:** Prod318 (₹68.97M) and Prod316 (₹60.88M) are top performers.
+  - **Top 5 Customers:** Electricalsara Stores tops with ₹413.91M.
+- **Interactivity:**
+  - Year filters (2017–2020).
+  - Hover tooltips for exact values.
+  - Drill-down into product and market details.
+
+---
+
+## 💡 Key Insights
+- **Delhi NCR** is the dominant market in both revenue and sales quantity.  
+- **Top 2 products** contribute significantly to total revenue.  
+- **Premium and Electrical stores** form the bulk of top customers.  
+- Sales fluctuations suggest possible seasonal demand patterns.
+
+---
+
+## 🛠️ Tools & Technologies
+- **MySQL** – Data storage & querying.
+- **Tableau** – Data visualization & dashboard creation.
+
+---
+
+## 🚀 How to Use
+1. Download the `.twb` file.  
+2. Open it in **Tableau Desktop** (version X.X or later).  
+3. Ensure MySQL connection details are set up.  
+4. Interact with filters and charts to explore insights.
+
+
+---
+
+## 📢 Author
+Faiz
+*Data Analyst.
+
